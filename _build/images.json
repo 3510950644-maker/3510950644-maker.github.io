@@ -1,0 +1,251 @@
+{
+ "产品页": {
+  "psu": "assets/images/products/psu.webp",
+  "ptfe": "assets/images/products/ptfe.webp",
+  "pfa": "assets/images/products/pfa.webp",
+  "fep": "assets/images/products/fep.webp",
+  "etfe": "assets/images/products/etfe.webp",
+  "光伏df": "assets/images/products/pvdf.webp",
+  "peek": "assets/images/products/peek.webp",
+  "ec": "assets/images/products/ec.webp",
+  "etfe-tape": "assets/images/products/etfe-tape.webp",
+  "ptfe-tape": "assets/images/products/ptfe-tape.webp",
+  "psa-tape": "assets/images/products/psa-tape.webp",
+  "fp": "assets/images/products/fp.webp",
+  "ep": "assets/images/products/ep.webp"
+ },
+ "应用行业页": {
+  "航空": [
+   {
+    "path": "assets/images/applications/aerospace/ec-tape.webp",
+    "zh": "EC 长效透波胶带",
+    "en": "EC Long-acting Wave-transparent Tape"
+   },
+   {
+    "path": "assets/images/applications/aerospace/etfe-mr.webp",
+    "zh": "ETFE MR 系列（离型级）",
+    "en": "ETFE MR Series (Release Grade)"
+   },
+   {
+    "path": "assets/images/applications/aerospace/etfe-tape.webp",
+    "zh": "ETFE Tape",
+    "en": "ETFE Tape"
+   },
+   {
+    "path": "assets/images/applications/aerospace/fep-mr.webp",
+    "zh": "FEP MR 系列",
+    "en": "FEP MR Series"
+   },
+   {
+    "path": "assets/images/applications/aerospace/peek.webp",
+    "zh": "PEEK 系列",
+    "en": "PEEK Series"
+   },
+   {
+    "path": "assets/images/applications/aerospace/pfa.webp",
+    "zh": "PFA 系列",
+    "en": "PFA Series"
+   },
+   {
+    "path": "assets/images/applications/aerospace/ptfe-mr.webp",
+    "zh": "PTFE MR",
+    "en": "PTFE MR"
+   },
+   {
+    "path": "assets/images/applications/aerospace/ptfe-tape.webp",
+    "zh": "PTFE tape",
+    "en": "PTFE Tape"
+   }
+  ],
+  "光伏": [
+   {
+    "path": "assets/images/applications/pv/etfe-hp.webp",
+    "zh": "ETFE HP 系列（超纯级）",
+    "en": "ETFE HP Series (Ultra-pure)"
+   },
+   {
+    "path": "assets/images/applications/pv/etfe-mr.webp",
+    "zh": "ETFE MR 系列（离型级）",
+    "en": "ETFE MR Series (Release Grade)"
+   },
+   {
+    "path": "assets/images/applications/pv/fep-hp.webp",
+    "zh": "FEP HP 系列",
+    "en": "FEP HP Series"
+   },
+   {
+    "path": "assets/images/applications/pv/peek.webp",
+    "zh": "PEEK 系列",
+    "en": "PEEK Series"
+   },
+   {
+    "path": "assets/images/applications/pv/pfa.webp",
+    "zh": "PFA 系列",
+    "en": "PFA Series"
+   }
+  ],
+  "半导体": [
+   {
+    "path": "assets/images/applications/semiconductor/ep-composite.webp",
+    "zh": "EP 复合膜",
+    "en": "EP Composite Film"
+   },
+   {
+    "path": "assets/images/applications/semiconductor/etfe-mr-composite.webp",
+    "zh": "ETFE MR 复合膜",
+    "en": "ETFE MR Composite Film"
+   },
+   {
+    "path": "assets/images/applications/semiconductor/fep-mr.webp",
+    "zh": "FEP MR 系列",
+    "en": "FEP MR Series"
+   },
+   {
+    "path": "assets/images/applications/semiconductor/fp-composite.webp",
+    "zh": "FP 复合膜",
+    "en": "FP Composite Film"
+   },
+   {
+    "path": "assets/images/applications/semiconductor/pfa-mr.webp",
+    "zh": "PFA MR 系列",
+    "en": "PFA MR Series"
+   }
+  ],
+  "电子": [
+   {
+    "path": "assets/images/applications/electronics/ep-composite.webp",
+    "zh": "EP 复合膜",
+    "en": "EP Composite Film"
+   },
+   {
+    "path": "assets/images/applications/electronics/etfe-mr.webp",
+    "zh": "ETFE MR 系列",
+    "en": "ETFE MR Series"
+   },
+   {
+    "path": "assets/images/applications/electronics/fep-mr.webp",
+    "zh": "FEP MR 系列",
+    "en": "FEP MR Series"
+   },
+   {
+    "path": "assets/images/applications/electronics/fp-composite.webp",
+    "zh": "FP 复合膜",
+    "en": "FP Composite Film"
+   },
+   {
+    "path": "assets/images/applications/electronics/pfa-mr.webp",
+    "zh": "PFA MR 系列",
+    "en": "PFA MR Series"
+   }
+  ],
+  "医药": [
+   {
+    "path": "assets/images/applications/medical/etfe-hp.webp",
+    "zh": "ETFE HP 系列（超纯级）",
+    "en": "ETFE HP Series (Ultra-pure)"
+   },
+   {
+    "path": "assets/images/applications/medical/fep-mr-mold.webp",
+    "zh": "FEP MR 模具离型系列",
+    "en": "FEP MR Mold Release Series"
+   },
+   {
+    "path": "assets/images/applications/medical/peek.webp",
+    "zh": "PEEK 系列",
+    "en": "PEEK Series"
+   },
+   {
+    "path": "assets/images/applications/medical/pfa.webp",
+    "zh": "PFA 系列",
+    "en": "PFA Series"
+   }
+  ],
+  "化工": [
+   {
+    "path": "assets/images/applications/chemical/peek.webp",
+    "zh": "PEEK 系列",
+    "en": "PEEK Series"
+   },
+   {
+    "path": "assets/images/applications/chemical/pfa.webp",
+    "zh": "PFA 系列",
+    "en": "PFA Series"
+   }
+  ],
+  "建材": [
+   {
+    "path": "assets/images/applications/building/ag.webp",
+    "zh": "ETFE AG 系列（建筑型）",
+    "en": "ETFE AG Series (Architectural)"
+   },
+   {
+    "path": "assets/images/applications/building/fep-mr-mold.webp",
+    "zh": "FEP MR 模具离型系列",
+    "en": "FEP MR Mold Release Series"
+   },
+   {
+    "path": "assets/images/applications/building/peek.webp",
+    "zh": "PEEK 系列",
+    "en": "PEEK Series"
+   },
+   {
+    "path": "assets/images/applications/building/pfa.webp",
+    "zh": "PFA 系列",
+    "en": "PFA Series"
+   }
+  ],
+  "农业": [
+   {
+    "path": "assets/images/applications/agriculture/ag.webp",
+    "zh": "ETFE AG 系列（建筑型）",
+    "en": "ETFE AG Series (Architectural)"
+   },
+   {
+    "path": "assets/images/applications/agriculture/fep-mr-mold.webp",
+    "zh": "FEP MR 模具离型系列",
+    "en": "FEP MR Mold Release Series"
+   },
+   {
+    "path": "assets/images/applications/agriculture/peek.webp",
+    "zh": "PEEK 系列",
+    "en": "PEEK Series"
+   },
+   {
+    "path": "assets/images/applications/agriculture/pfa.webp",
+    "zh": "PFA 系列",
+    "en": "PFA Series"
+   }
+  ]
+ },
+ "methods": {
+  "喷砂/化学磨砂/涂层哑光": "assets/images/methods/sandblast.webp",
+  "蚀刻": "assets/images/methods/etch.webp",
+  "印染": "assets/images/methods/dye.webp",
+  "涂层": "assets/images/methods/coating.webp",
+  "电镀/喷溅": "assets/images/methods/plating.webp",
+  "电晕处理": "assets/images/methods/corona.webp",
+  "开槽": "assets/images/methods/slitting.webp",
+  "切割/冲压": "assets/images/methods/cutting.webp",
+  "压花": "assets/images/methods/emboss.webp",
+  "压成型": "assets/images/methods/thermoform.webp",
+  "层压": "assets/images/methods/laminate.webp",
+  "退火": "assets/images/methods/anneal.webp"
+ },
+ "banners": {
+  "company": "assets/images/banners/company.jpg",
+  "产品页": "assets/images/banners/products.jpg",
+  "about": "assets/images/banners/about.jpg"
+ },
+ "industries": {
+  "航空": "assets/images/industries/aerospace.webp",
+  "光伏": "assets/images/industries/pv.webp",
+  "半导体": "assets/images/industries/semiconductor.webp",
+  "电子": "assets/images/industries/electronics.webp",
+  "医药": "assets/images/industries/medical.webp",
+  "化工": "assets/images/industries/chemical.webp",
+  "建材": "assets/images/industries/building.webp",
+  "农业": "assets/images/industries/agriculture.webp",
+  "家装": "assets/images/industries/interior.webp",
+  "交通": "assets/images/industries/transport.webp"
+ }
+}
