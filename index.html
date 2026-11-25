@@ -16,17 +16,17 @@
 
   j.onload = function() {
     setTimeout(function() {
-      siteSDK.setDefaultConfig({
+      window.__siteSDK__.setDefaultConfig({
         outerKey: 'key6067608005db49d7bfe59904470685fb'
       });
 
-      siteSDK.init();
+      window.__siteSDK__.init();
     }, 500);
   };
 
   s = d.getElementsByTagName('script')[0];
   s.parentNode.insertBefore(j, s);
-})(window, document, 'siteSDK');
+})(window, document, '__siteSDK__');
 </script>
 <meta name="description" content="正宇新材专注特种高分子薄膜材料的研发与制造，提供 ETFE、PTFE、PFA、FEP、PVDF、PEEK 等原膜、胶带与复合膜产品。">
 <meta property="og:title" content="正宇新材 | 创新可靠的材料供应商">
